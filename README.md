@@ -12,7 +12,9 @@ View the dashboard live here: [Tableau Public Link](https://public.tableau.com/a
 All data used for Tableau visualizations was generated from PostgreSQL queries in pgAdmin.
 
 cfb_q1.csv: College Recruiting by State
+
 cfb_q2.csv: 5-Star Recruits by State
+
 cfb_q3.csv: College Recruiting by Position
 
 ---
