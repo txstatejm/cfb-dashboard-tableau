@@ -11,11 +11,9 @@ View the dashboard live here: [Tableau Public Link](https://public.tableau.com/a
 
 All data used for Tableau visualizations was generated from PostgreSQL queries in pgAdmin.
 
-| File | Description |
-|------|-------------|
-| position_recruiting.csv | School-level recruiting dominance by position |
-| talent_by_state.csv | Top states producing the most football talent |
-| college_recruiting_by_state.csv | College recruiting patterns across states |
+cfb_q1.csv: College Recruiting by State
+cfb_q2.csv: 5-Star Recruits by State
+cfb_q3.csv: College Recruiting by Position
 
 ---
 
